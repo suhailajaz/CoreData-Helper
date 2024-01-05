@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9479ACD2-DE6A-43C9-B76B-A2008326DEC0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C996E64A-3C9B-490E-8B34-30FC729CB832"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project-11-CoreData DatabaseHelper/FamilyViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "addNewFamily()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C996E64A-3C9B-490E-8B34-30FC729CB832 - df20c96083052d6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;Project_11_CoreData_DatabaseHelper.Family&gt;) -&gt; () in closure #1 (Swift.Bool) -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Project_11_CoreData_DatabaseHelper.FamilyViewController.addNewFamily() -&gt; ()"
+                  moduleName = "Project-11-CoreData DatabaseHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-11-CoreData%20DatabaseHelper/Project-11-CoreData%20DatabaseHelper/FamilyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "C996E64A-3C9B-490E-8B34-30FC729CB832 - 90b53f7e865c6461"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;Project_11_CoreData_DatabaseHelper.Family&gt;) -&gt; () in closure #1 (Swift.Bool) -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Project_11_CoreData_DatabaseHelper.FamilyViewController.addNewFamily() -&gt; ()"
+                  moduleName = "Project-11-CoreData DatabaseHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-11-CoreData%20DatabaseHelper/Project-11-CoreData%20DatabaseHelper/FamilyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "846C4408-9E0B-4D79-A215-4BB6C98B37D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project-11-CoreData DatabaseHelper/DatabaseHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "createFamily(name:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "846C4408-9E0B-4D79-A215-4BB6C98B37D0 - 3a137a29eb79a11d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_11_CoreData_DatabaseHelper.DatabaseHelper.createFamily(name: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Project-11-CoreData DatabaseHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-11-CoreData%20DatabaseHelper/Project-11-CoreData%20DatabaseHelper/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "846C4408-9E0B-4D79-A215-4BB6C98B37D0 - 3a137a29eb79a11d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_11_CoreData_DatabaseHelper.DatabaseHelper.createFamily(name: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Project-11-CoreData DatabaseHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-11-CoreData%20DatabaseHelper/Project-11-CoreData%20DatabaseHelper/DatabaseHelper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22852694-4F78-48D0-A7EA-1723DB1F1DC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Project-11-CoreData DatabaseHelper/FamilyViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22852694-4F78-48D0-A7EA-1723DB1F1DC1 - e6435d766019068a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_11_CoreData_DatabaseHelper.FamilyViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Project-11-CoreData DatabaseHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-11-CoreData%20DatabaseHelper/Project-11-CoreData%20DatabaseHelper/FamilyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "22852694-4F78-48D0-A7EA-1723DB1F1DC1 - e6435d766019068a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Project_11_CoreData_DatabaseHelper.FamilyViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "Project-11-CoreData DatabaseHelper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/suhail/Desktop/Personal%20Projects/Project-11-CoreData%20DatabaseHelper/Project-11-CoreData%20DatabaseHelper/FamilyViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
